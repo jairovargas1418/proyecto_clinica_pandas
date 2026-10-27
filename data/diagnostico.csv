@@ -1,0 +1,19 @@
+IdDiagnostico,CodigoCIE10,Descripcion
+1,J00,Rinofaringitis aguda
+2,J03.9,Amigdalitis aguda
+3,A09,Gastroenteritis
+4,Z00.1,Control de niño sano
+5,L20,Dermatitis atópica
+6,Z34,Supervisión de embarazo normal
+7,N76.0,Vaginitis aguda
+8,N92.0,Menstruación excesiva
+9,Z30,Anticoncepción
+10,P59.9,Ictericia neonatal
+11,P07.3,Prematuridad
+12,Z00.1,Control de niño sano
+13,K35,Apendicitis aguda
+14,K40,Hernia inguinal
+15,S06,Trauma craneoencefálico
+16,I10,Hipertensión esencial
+17,E66,Obesidad
+18,J06.9,Infección respiratoria aguda
